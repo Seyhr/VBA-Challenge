@@ -1,5 +1,5 @@
 # VBA-Challenge
-This packahe contains the following files:
+This package contains the following files:
   1. Multiple_year_stock_data.xslm
       This file contains the MS Excel sheet that uses VB code to analyze data. Final analysis is displayed on 4 worksheets             within this file.
   
@@ -20,3 +20,5 @@ This packahe contains the following files:
 
   7.README
     This file.
+I used different websites to get help for code.
+    
